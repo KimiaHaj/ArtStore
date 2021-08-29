@@ -17,17 +17,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{FE32B82A-73B8-43E2-9DF7-BBEDCD25D5EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtStore.Domain", "ArtStore.Domain\ArtStore.Domain.csproj", "{79A2BF74-E9B5-4AC0-A1FE-20EC6531A215}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtStore.Domain", "ArtStore.Domain\ArtStore.Domain.csproj", "{79A2BF74-E9B5-4AC0-A1FE-20EC6531A215}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtStore.Application", "ArtStore.Application\ArtStore.Application.csproj", "{05076326-EE98-453E-9DF3-697A80817319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtStore.Application", "ArtStore.Application\ArtStore.Application.csproj", "{05076326-EE98-453E-9DF3-697A80817319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtStore.Infrastructure", "ArtStore.Infrastructure\ArtStore.Infrastructure.csproj", "{039FB217-E7C7-4027-B75E-9934ABC5F38E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtStore.Infrastructure", "ArtStore.Infrastructure\ArtStore.Infrastructure.csproj", "{039FB217-E7C7-4027-B75E-9934ABC5F38E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtStore.Persistence", "ArtStore.Persistence\ArtStore.Persistence.csproj", "{752784CB-B746-49F5-B983-BB89A7EEB8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtStore.Persistence", "ArtStore.Persistence\ArtStore.Persistence.csproj", "{752784CB-B746-49F5-B983-BB89A7EEB8DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtStore.Common", "ArtStore.Common\ArtStore.Common.csproj", "{7D45F84C-1EA7-4069-9519-607FADC1E3B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtStore.Common", "ArtStore.Common\ArtStore.Common.csproj", "{7D45F84C-1EA7-4069-9519-607FADC1E3B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndPoint.Site", "EndPoint.Site\EndPoint.Site.csproj", "{A2E1ECA3-0747-420F-B823-E5059C192814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EndPoint.Site", "EndPoint.Site\EndPoint.Site.csproj", "{A2E1ECA3-0747-420F-B823-E5059C192814}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

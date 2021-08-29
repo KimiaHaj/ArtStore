@@ -9,3 +9,7 @@ C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.D
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ref\ArtStore.Domain.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\bin\Debug\net5.0\ArtStore.Domain.runtimeconfig.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\bin\Debug\net5.0\ArtStore.Domain.runtimeconfig.dev.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.csprojAssemblyReference.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.genruntimeconfig.cache

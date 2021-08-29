@@ -10,3 +10,11 @@ C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\obj\Debug\net5.0\ArtSt
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\obj\Debug\net5.0\ArtStore.Application.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\obj\Debug\net5.0\ref\ArtStore.Application.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\obj\Debug\net5.0\ArtStore.Application.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\bin\Debug\net5.0\ArtStore.Application.runtimeconfig.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\bin\Debug\net5.0\ArtStore.Application.runtimeconfig.dev.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\obj\Debug\net5.0\ArtStore.Application.genruntimeconfig.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\bin\Debug\net5.0\ArtStore.Domain.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\bin\Debug\net5.0\ArtStore.Infrastructure.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\bin\Debug\net5.0\ArtStore.Domain.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\bin\Debug\net5.0\ArtStore.Infrastructure.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Application\obj\Debug\net5.0\ArtStore.Application.csproj.CopyComplete

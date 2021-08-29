@@ -4,14 +4,97 @@
     "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj": {
+    "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Application\\ArtStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj",
-        "projectName": "ArtStore.Persistence",
-        "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Application\\ArtStore.Application.csproj",
+        "projectName": "ArtStore.Application",
+        "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Application\\ArtStore.Application.csproj",
         "packagesPath": "C:\\Users\\Kimia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kimia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj"
+              },
+              "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Infrastructure\\ArtStore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Infrastructure\\ArtStore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj",
+        "projectName": "ArtStore.Domain",
+        "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kimia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kimia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +122,187 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Infrastructure\\ArtStore.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Infrastructure\\ArtStore.Infrastructure.csproj",
+        "projectName": "ArtStore.Infrastructure",
+        "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Infrastructure\\ArtStore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Kimia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kimia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj",
+        "projectName": "ArtStore.Persistence",
+        "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\ArtStore.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Kimia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kimia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Application\\ArtStore.Application.csproj": {
+                "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Application\\ArtStore.Application.csproj"
+              },
+              "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kimia\\source\\repos\\ArtStore\\ArtStore.Domain\\ArtStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

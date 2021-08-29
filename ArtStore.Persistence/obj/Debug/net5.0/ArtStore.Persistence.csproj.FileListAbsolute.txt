@@ -10,3 +10,13 @@ C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\obj\Debug\net5.0\ArtSt
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\obj\Debug\net5.0\ArtStore.Persistence.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\obj\Debug\net5.0\ref\ArtStore.Persistence.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\obj\Debug\net5.0\ArtStore.Persistence.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Persistence.runtimeconfig.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Persistence.runtimeconfig.dev.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\obj\Debug\net5.0\ArtStore.Persistence.genruntimeconfig.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Domain.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Domain.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\obj\Debug\net5.0\ArtStore.Persistence.csproj.CopyComplete
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Application.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Infrastructure.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Application.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Persistence\bin\Debug\net5.0\ArtStore.Infrastructure.pdb

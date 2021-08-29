@@ -10,3 +10,6 @@ C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\obj\Debug\net5.0\Ar
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\obj\Debug\net5.0\ArtStore.Infrastructure.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\obj\Debug\net5.0\ref\ArtStore.Infrastructure.dll
 C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\obj\Debug\net5.0\ArtStore.Infrastructure.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\bin\Debug\net5.0\ArtStore.Infrastructure.runtimeconfig.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\bin\Debug\net5.0\ArtStore.Infrastructure.runtimeconfig.dev.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Infrastructure\obj\Debug\net5.0\ArtStore.Infrastructure.genruntimeconfig.cache
