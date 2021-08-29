@@ -1,0 +1,12 @@
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\bin\Debug\net5.0\ArtStore.Common.deps.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\bin\Debug\net5.0\ArtStore.Common.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\bin\Debug\net5.0\ref\ArtStore.Common.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\bin\Debug\net5.0\ArtStore.Common.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.csprojAssemblyReference.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.AssemblyInfoInputs.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.AssemblyInfo.cs
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ref\ArtStore.Common.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Common\obj\Debug\net5.0\ArtStore.Common.pdb

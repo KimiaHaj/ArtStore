@@ -1,0 +1,11 @@
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\bin\Debug\net5.0\ArtStore.Domain.deps.json
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\bin\Debug\net5.0\ArtStore.Domain.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\bin\Debug\net5.0\ref\ArtStore.Domain.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\bin\Debug\net5.0\ArtStore.Domain.pdb
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.AssemblyInfo.cs
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ref\ArtStore.Domain.dll
+C:\Users\Kimia\source\repos\ArtStore\ArtStore.Domain\obj\Debug\net5.0\ArtStore.Domain.pdb
